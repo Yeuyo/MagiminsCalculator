@@ -11,13 +11,14 @@ A calculator to compute best ingredients combination for the Potionomics game.
 
 # Usage Guide
 <p align="center">
-  <img src="Images/Picture2.png" width="350" title="hover text">
+  <img src="Images/Picture3.png" width="350" title="hover text">
 </p>
 A - Select the ingredients that you already unlocked in the game.<br/>
 B - Choose the number of ingredients you want to use for brewing.<br/>
 C - Choose the maximum number of magimins that you want for the brew (mostly because of cauldron limit).<br/>
 D - Select the potion to brew.<br/>
 E - Select whether you want to limit the ingredients to be puchasable in a day (so it won't use rare ingredients too many times).<br/>
-F - The suggested brew.
+F - Select the trait you want in the potion.<br/>
+G - The suggested brew.
 
 Note: It currently only compute for perfect brew (doesn't use magimins that are not involved in the potion) and disregard potion traits.
